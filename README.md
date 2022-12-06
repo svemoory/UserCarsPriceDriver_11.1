@@ -8,7 +8,7 @@ To frame the task, throughout our practical applications we will refer back to a
 
 ### Business Understanding
 
-The objective of the assignment is to determine the key features that determine the price of a used car and ultimately help the car delaerships to better manage their inventory. To achieve this, let's classify this business into the following data problem and try to answer them at the end.
+The objective of the assignment is to determine the key features that determine the price of a used car and ultimately help the car dealerships to better manage their inventory. To achieve this, let's classify this business into the following data problem and try to answer them at the end.
 
 * Identify the top features that determines the price of a used car.
 * Does the year of manufacture of the used car contribute to the overall price?
@@ -38,10 +38,10 @@ The features in a used car that are most valued by the customers are
 
 * Relatively newer cars with powerful engines and that have low mileage are the best sellers and can get you bang for the buck.
 * For limited space dealerships, my study further indicates that Trucks/Picks up are great sellers.
-* Diesel Engined cars seem to be very popular which could be a factor of higher gas prices followed by gas cars.
-* American car models like Ford, Chevy preferablly white(neutral color) are extremely common sell. Since people in America love to take road trips
+* Diesel Engine cars seem to be very popular which could be a factor of higher gas prices followed by gas cars.
+* American car models like Ford, Chevy preferably white(neutral color) are extremely common sell. Since people in America love to take road trips
 * Family and durable cars like Toyota and Rover seems to be popular as well.
-* Suprisingly Electric cars have not caught up yet, but something to look out for in the future, as it picks up.
+* Surprisingly Electric cars have not caught up yet, but something to look out for in the future, as it picks up.
 * Luxury cars are a rare sell, so I would suggest stock it based on location.
 
 ### Next steps and recommendations
@@ -49,5 +49,5 @@ To further improve the model with better accuracy, I would recommend:
 
 * Improve data quality, by collecting information like, number of previous owners, accident reports, safety features, service records
 * Create new models using different split ratios
-* Get ecomomic data like pandemics, recession, war that can effect supply chain and potentially impact the sales.
+* Get economic data like pandemics, recession, war that can effect supply chain and potentially impact the sales.
 * Also, forecast models can be build if we have sale data.
